@@ -1,0 +1,141 @@
+body
+{
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: auto;
+	text-size-adjust: auto;
+}
+#wrapp {
+    width: 960px;
+    margin: 0 auto;
+}
+#primary {
+    float: left;
+    width: 210px;
+    height: 1024px;
+    background-color: #FFCCCC;
+}
+#primary_menu
+{
+	width: 210px;
+	height: 20px;
+    text-align: center;
+	background-color: #B0E2FF;
+}
+#content {
+    float: left;
+    width: 540px;
+    height: 1024px;
+    background-color: #CCCCFF;
+}
+#content_marquee
+{
+	width: 540px;
+	height: 20px;
+	background-color: #CC9966;
+}
+#content_noidung
+{
+	width: 540px;
+	height: 100px;
+	background-color: #836FFF;
+}
+#content_noidung1
+{
+	width: 540px;
+	height: 100px;
+	background-color: #104E8B;
+}
+#content_noidung2
+{
+	width: 540px;
+	height: 104px;
+	background-color: #104E8B;
+}
+#content_form_thongtin
+{
+	width: 540px;
+	height: 170px;
+	background-color: #104E8B;
+}
+#content_form_dangky
+{
+	width: 540px;
+	height: 230px;
+	background-color: #339966;
+}
+#secondary {
+    float: left;
+    width: 210px;
+    height: 1024px;
+    background-color: #99CCFF;
+}
+#secondary_thanhvien
+{
+	width: 210px;
+	height: 20px;
+	background-color:#E0FFFF;
+	text-align:center;
+}
+
+}
+
+#secondary_dangnhap
+{
+	width: 210px;
+    height: 110px;
+    background-color: #7A8B8B;
+    text-align: center;
+}
+.secondary_dangnhap_text
+{
+	color: #8B0000;
+	font-size: 12px;
+}
+#secondary_banner
+{
+    width: 210px;
+    height: 256px;
+    background-color: #B0E2FF;
+}
+#secondary_banner1
+{
+    width: 210px;
+    height: 256px;
+    background-color: #00F5FF;
+}
+#footer {
+    clear: both;
+    background-color: #CCCCCC;
+}
+#header
+{
+	background-color: #EEEEEE;
+	height: 100px;
+}
+#header_left
+{
+	width: 160px;
+	height:	100px;
+	background-color: #999999;
+	float: left;
+}
+#header_center
+{
+	width: 640px;
+	height:	100px;
+	background-color: #99FF00;
+	float: left;
+}
+#header_right
+{
+	width: 160px;
+	height:	100px;
+	background-color: #CCCC00;
+	float: left;
+}
+.text_footer
+{
+	line-height: 25px;
+	text-align: center;
+}
+
